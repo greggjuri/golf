@@ -5,15 +5,15 @@ body {
 hr {
     border-style: none;
     border-top-style: dotted;
-    border-color: #053a1a;
+    border-color: #AEC2B6;
     border-width: 5px;
     width: 7%;              
 }
 
 h1 {
-    color: #AEC2B6;
+    color: #053a1a;
 }
 
 h3 {
-    color: #AEC2B6;
+    color: #053a1a;
 }
